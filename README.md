@@ -21,7 +21,7 @@ This project predicts product sales based on advertising expenditure on TV, Radi
 # Dataset
 Advertising Dataset
 
-#ow to Run
+#How to Run
 1. Install dependencies
 2. Run:
    python sales_prediction.py
